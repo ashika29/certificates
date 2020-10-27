@@ -67,10 +67,34 @@ This repo consists of all the course certificates I have received during my Bach
 	- Credential ID: 51ac92d00cc45a8adf81f3d7d2e00c8e
 	- Credential URL: https://media.geeksforgeeks.org/courses/certificates/51ac92d00cc45a8adf81f3d7d2e00c8e.pdf
 
-9. FuncMethInterfaces_Go 17-10-2020.pdf
+9. Problem Solving (Basic) Certificate
+	- Name: Problem Solving (Basic)
+	- Issuing Organization: Hakcerrank
+	- Issue Date: Sep 2020
+	- Expiration Date: This certification does not expire
+	- Credential ID: baaf7a98e11c
+	- Credential URL: https://www.hackerrank.com/certificates/baaf7a98e11c
+
+10. Python (Basic) Certificate
+	- Name: Python (Basic)
+	- Issuing Organization: Hakcerrank
+	- Issue Date: Sep 2020
+	- Expiration Date: This certification does not expire
+	- Credential ID: 6b146d5862d9
+	- Credential URL: https://www.hackerrank.com/certificates/6b146d5862d9
+
+11. FuncMethInterfaces_Go 17-10-2020.pdf
 	- Name: Functions, Methods, and Interfaces in Go
 	- Issuing Organization: Coursera
 	- Issue Date: October 2020
 	- Expiration Date: This certification does not expire
 	- Credential ID: RKYCC8C8F8X2
 	- Credential URL: https://www.coursera.org/account/accomplishments/certificate/RKYCC8C8F8X2
+
+12. Java (Basic) Certificate
+	- Name: Java (Basic)
+	- Issuing Organization: Hakcerrank
+	- Issue Date: Oct 2020
+	- Expiration Date: This certification does not expire
+	- Credential ID: 14f6daa9013f
+	- Credential URL: https://www.hackerrank.com/certificates/14f6daa9013f
